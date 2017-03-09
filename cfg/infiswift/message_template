@@ -1,9 +1,0 @@
-{
-"id": "#ID#",
-"id_wasp": "#ID_WASP#", 
-"id_secret": "#ID_SECRET#", 
-"sensor": "#SENSOR#", 
-"value": "#VALUE#", 
-"datetime":"#TIMESTAMP#"
-
-}

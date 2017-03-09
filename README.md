@@ -1,1 +1,0 @@
-# libelium_plugin
